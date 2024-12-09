@@ -1,4 +1,7 @@
 # Mireia Galindo - Data Science Portfolio
+- LinkedIn: https://www.linkedin.com/in/mireiagalindo/
+- Email: mireia.galindo.b@gmail.com
+
 
 ## About
 I’m an architect with a strong background in designing and executing diverse building projects, and a Data Science and Machine Learning professional with expertise in Python-based analysis and visualization, leveraging libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, along with working knowledge of SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems effectively.
@@ -7,13 +10,6 @@ With over 10 years of experience in construction projects—spanning residential
 
 Additionally, I have formal training in Smart Cities and technologies for effective urban management. I am deeply passionate about integrating design, technology, and sustainability to drive innovation and create impactful, future-focused solutions.
 
-
-## Table of Contents
-
-- [Data Science and Machine Learning Projects](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#data-science-and-machine-learning-projects)  
-- [Education](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#education)
-- [Certificates](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#contacts)
 
 ## Data Science and Machine Learning Projects:
 
@@ -43,7 +39,3 @@ Organized by complexity, from simple to complex:
 - Purchase Propensity Model: [`EasyMoney_4_Purchase_propensity_model.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_4_Purchase_propensity_model.ipynb)
 - Clustering Model: [`EasyMoney_5_Clustering_model.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_5_Clustering_model.ipynb)
 
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/mireiagalindo/
-- Email: mireia.galindo.b@gmail.com
