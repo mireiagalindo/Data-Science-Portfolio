@@ -16,6 +16,13 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 Organized by complexity, from simple to complex: 
 
 ### 1. Used BMW Car Sales: EDA (Exploratory Data Analysis), Data Preparation and Price Prediction.
+**Description:** 
+This project focuses on the data preprocessing, exploratory data analysis (EDA), and prediction model development for used BMW car sales. The objective is to clean and transform the dataset by handling missing values, removing outliers, and performing feature engineering. Key steps include categorizing variables, managing numerical and categorical data, and preparing the dataset for predictive modeling. EDA explores relationships between features, visualizing price distributions, correlations, and the impact of different factors on the car prices. The project prepares the dataset to build a model that predicts BMW car prices effectively.
+**Skills:** 
+Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis. 
+
+**Technology:** 
+Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
 **Code:** [`Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb)
 
 
