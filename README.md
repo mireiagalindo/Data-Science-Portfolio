@@ -15,7 +15,7 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 
 Organized by complexity, from simple to complex: 
 
-- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+- [Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#used-bmw-car-sales)
 - [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
 - [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
 - [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
@@ -23,7 +23,7 @@ Organized by complexity, from simple to complex:
 
 Organized by complexity, from simple to complex: 
 
-### 1. Used BMW Car Sales
+### Used BMW Car Sales
 
 #### **Description:** 
 This project involves preprocessing and analyzing a used BMW car sales dataset to predict car prices. It includes handling missing values, removing outliers, feature engineering, and exploring data relationships through EDA. The goal is to prepare the data for an effective price prediction model.
