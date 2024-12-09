@@ -15,6 +15,14 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 
 Organized by complexity, from simple to complex: 
 
+- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+
+Organized by complexity, from simple to complex: 
+
 ### 1. Used BMW Car Sales
 
 #### **Description:** 
