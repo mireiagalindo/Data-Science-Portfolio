@@ -17,13 +17,13 @@ Organized by complexity, from simple to complex:
 
 ### 1. Used BMW Car Sales
 
-**Description:** 
+#### **Description:** 
 This project involves preprocessing and analyzing a used BMW car sales dataset to predict car prices. It includes handling missing values, removing outliers, feature engineering, and exploring data relationships through EDA. The goal is to prepare the data for an effective price prediction model.
 
-**Skills:** 
+#### **Skills:** 
 Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis. 
 
-**Technology:** 
+#### **Technology:** 
 Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
 
 **Code:** [`Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb)
