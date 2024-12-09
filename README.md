@@ -1,11 +1,11 @@
 # Mireia Galindo - Data Science Portfolio
 
 ## About
-I am an Architect and a Data Science and Machine Learning enthusiast with strong skills in data analysis and visualization using Python and libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, as well as SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems.
+I am a Licensed Architect with expertise in residential and office design, and a passionate Data Science and Machine Learning enthusiast. I possess strong skills in data analysis and visualization using Python and libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, along with proficiency in SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems effectively.
 
-With over 10 years of experience in construction projects—ranging from residential and industrial to office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners.
+With over 10 years of experience in construction projects—spanning residential, industrial, and office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners.
 
-Additionally, I have training in Smart Cities and technologies for effective urban management. I am passionate about integrating design, technology, and sustainability to drive innovation and create impactful solutions.
+Additionally, I have formal training in Smart Cities and technologies for effective urban management. I am deeply passionate about integrating design, technology, and sustainability to drive innovation and create impactful, future-focused solutions.
 
 
 ## Table of Contents
