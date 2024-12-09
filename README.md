@@ -9,6 +9,8 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 
 
 ## Table of Contents
+
+- [Data Science and Machine Learning Projects](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#Data Science and Machine Learning Project)  
 - 
 - 
   - Python
