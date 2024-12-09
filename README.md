@@ -16,7 +16,7 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 Organized by complexity, from simple to complex: 
 
 - [Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#used-bmw-car-sales)
-- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+- [Microsoft Malware Prediction s](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#Microsoft-Malware-Prediction )
 - [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
 - [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
 - [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
@@ -37,10 +37,10 @@ Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib
 **Code:** [`Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb)
 
 
-### 2. Microsoft Malware Prediction: EDA (Exploratory Data Analysis), Data Preparation and Modeling. 
+### Microsoft Malware Prediction 
 
 **Description:** 
-This project focuses on using machine learning to predict malware infections on devices. The goal is to analyze historical data related to system behavior, software usage, and security vulnerabilities, to create a  predictive models that can identify which systems are at risk of becoming compromised. 
+This project focuses on using machine learning to predict malware infections on devices. The goal is to analyze historical data related to system behavior, software usage, and security vulnerabilities, to create a  predictive models that can identify which systems are at risk of becoming compromised. It includes Exploratory Data Analysis, Data Preparation and Model Training and Evaluation. 
 
 **Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis.
 
