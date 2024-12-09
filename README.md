@@ -11,23 +11,9 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 ## Table of Contents
 
 - [Data Science and Machine Learning Projects](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#data-science-and-machine-learning-projects)  
-- [Education](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#education)  
+- [Education](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#contacts)
-
-sdlkjblksajdb
-
-
-asldkfjblaksdf
-
-lkajdhflkajsdfh
-
-laskdjfh
-
-
-
-
-
 
 ## Data Science and Machine Learning Projects
 
