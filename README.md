@@ -19,23 +19,23 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 
 Organized by complexity, from simple to complex: 
 
-### Used BMW Car Sales: EDA (Exploratory Data Analysis), Data Preparation and Price Prediction.
+### 1. Used BMW Car Sales: EDA (Exploratory Data Analysis), Data Preparation and Price Prediction.
 **Code:** [`Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb)
 
 
-### Microsoft Malware Prediction: EDA (Exploratory Data Analysis), Data Preparation and Modeling. 
+### 2. Microsoft Malware Prediction: EDA (Exploratory Data Analysis), Data Preparation and Modeling. 
 **Code:** [`Microsoft_Malware_Prediction.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Microsoft_Malware_Prediction.ipynb)
 
 
-### Sales Prediction with Time Series and XGBoost. 
+### 3. Sales Prediction with Time Series and XGBoost. 
 **Code:** [`Sales_Prediction_Time_Series.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Sales_Prediction_Time_Series.ipynb)
 
 
-### Deep Learning Image Classifier using the CIFAR-100 dataset. 
+### 4. Deep Learning Image Classifier using the CIFAR-100 dataset. 
 **Code:** [`Deep_Learning_Image_Classifier.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Deep_Learning_Image_Classifier.ipynb)
 
 
-### EasyMoney: Purchase Propensity Model and Clustering for a FinTech. 
+### 5. EasyMoney: Purchase Propensity Model and Clustering for a FinTech. 
 **Code:** 
 - Data Integration: [`EasyMoney_1_Merge.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_1_Merge.ipynb)
 - EDA (Exploratory Data Analysis)and Data Preparation 1: [`EasyMoney_2_EDA_Data_Prep.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_2_EDA_Data_Prep.ipynb)
