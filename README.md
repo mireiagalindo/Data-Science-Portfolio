@@ -15,10 +15,10 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 
 Organized by complexity, from simple to complex: 
 
-### 1. Used BMW Car Sales: EDA (Exploratory Data Analysis), Data Preparation and Price Prediction.
+### 1. Used BMW Car Sales
 
 **Description:** 
-This project focuses on the data preprocessing, exploratory data analysis (EDA), and prediction model development for used BMW car sales. The objective is to clean and transform the dataset by handling missing values, removing outliers, and performing feature engineering. Key steps include categorizing variables, managing numerical and categorical data, and preparing the dataset for predictive modeling. EDA explores relationships between features, visualizing price distributions, correlations, and the impact of different factors on the car prices. The project prepares the dataset to build a model that predicts BMW car prices effectively.
+This project involves preprocessing and analyzing a used BMW car sales dataset to predict car prices. It includes handling missing values, removing outliers, feature engineering, and exploring data relationships through EDA. The goal is to prepare the data for an effective price prediction model.
 
 **Skills:** 
 Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis. 
@@ -30,14 +30,44 @@ Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib
 
 
 ### 2. Microsoft Malware Prediction: EDA (Exploratory Data Analysis), Data Preparation and Modeling. 
+
+**Description:** 
+This project focuses on using machine learning to predict malware infections on devices. The goal is to analyze historical data related to system behavior, software usage, and security vulnerabilities, to create a  predictive models that can identify which systems are at risk of becoming compromised. 
+
+**Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis.
+
+**Technology:** 
+Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
+
 **Code:** [`Microsoft_Malware_Prediction.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Microsoft_Malware_Prediction.ipynb)
 
 
 ### 3. Sales Prediction with Time Series and XGBoost. 
+
+**Description:** 
+This project focuses on predicting monthly sales using time series data and an XGBoost model. The dataset contains sales data for various items across multiple shops, and the goal is to forecast future sales. The process involves data loading, exploration, handling missing values, feature engineering, and building predictive models using XGBoost. Exploratory Data Analysis (EDA) includes visualizing sales trends, item categories, and cities with the highest sales. Key features are created through rolling averages, lag features, and aggregated metrics to improve model performance. The XGBoost model is trained, evaluated, and fine-tuned using RMSE for performance measurement.
+
+**Skills:**
+Time Series Analysis, Data Cleaning & Imputation, Feature Engineering, Exploratory Data Analysis (EDA), Model Building and Evaluation, Hyperparameter Tuning, Model Deployment. 
+
+**Technology:**
+Python, XGBoost, Pandas, NumPy, Matplotlib & Seaborn (Visualization), Scikit-learn (Metrics & Preprocessing), Statsmodels (Time Series Plots). 
+
 **Code:** [`Sales_Prediction_Time_Series.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Sales_Prediction_Time_Series.ipynb)
 
 
 ### 4. Deep Learning Image Classifier using the CIFAR-100 dataset. 
+
+**Description:**
+
+
+**Skills:**
+
+
+
+**Technology:**
+
+
 **Code:** [`Deep_Learning_Image_Classifier.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Deep_Learning_Image_Classifier.ipynb)
 
 
