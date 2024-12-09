@@ -16,12 +16,12 @@ Additionally, I have formal training in Smart Cities and technologies for effect
 Organized by complexity, from simple to complex: 
 
 - [Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#used-bmw-car-sales)
-- [Microsoft Malware Prediction s](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#Microsoft-Malware-Prediction )
-- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
-- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
-- [1. Used BMW Car Sales](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#1.-Used-BMW-Car-Sales)
+- [Microsoft Malware Prediction](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#Microsoft-Malware-Prediction)
+- [Sales Prediction with Time Series and XGBoost](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#Sales-Prediction-with-Time-Series-and-XGBoost)
+- [Deep Learning Image Classifier using the CIFAR-100 dataset](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#Deep-Learning-Image-Classifier-using-the-CIFAR-100-dataset)
+- [Purchase Propensity Model and Clustering for a FinTech](https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md#Purchase-Propensity-Model-and-Clustering-for-a-FinTech)
 
-Organized by complexity, from simple to complex: 
+
 
 ### Used BMW Car Sales
 
@@ -39,47 +39,59 @@ Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib
 
 ### Microsoft Malware Prediction 
 
-**Description:** 
+#### **Description:** 
 This project focuses on using machine learning to predict malware infections on devices. The goal is to analyze historical data related to system behavior, software usage, and security vulnerabilities, to create a  predictive models that can identify which systems are at risk of becoming compromised. It includes Exploratory Data Analysis, Data Preparation and Model Training and Evaluation. 
 
-**Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis.
+#### **Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis.
 
-**Technology:** 
+#### **Technology:** 
 Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
 
 **Code:** [`Microsoft_Malware_Prediction.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Microsoft_Malware_Prediction.ipynb)
 
 
-### 3. Sales Prediction with Time Series and XGBoost. 
+### Sales Prediction with Time Series and XGBoost
 
-**Description:** 
+#### **Description:** 
 This project focuses on predicting monthly sales using time series data and an XGBoost model. The dataset contains sales data for various items across multiple shops, and the goal is to forecast future sales. The process involves data loading, exploration, handling missing values, feature engineering, and building predictive models using XGBoost. Exploratory Data Analysis (EDA) includes visualizing sales trends, item categories, and cities with the highest sales. Key features are created through rolling averages, lag features, and aggregated metrics to improve model performance. The XGBoost model is trained, evaluated, and fine-tuned using RMSE for performance measurement.
 
-**Skills:**
+#### **Skills:**
 Time Series Analysis, Data Cleaning & Imputation, Feature Engineering, Exploratory Data Analysis (EDA), Model Building and Evaluation, Hyperparameter Tuning, Model Deployment. 
 
-**Technology:**
+#### **Technology:**
 Python, XGBoost, Pandas, NumPy, Matplotlib & Seaborn (Visualization), Scikit-learn (Metrics & Preprocessing), Statsmodels (Time Series Plots). 
 
 **Code:** [`Sales_Prediction_Time_Series.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Sales_Prediction_Time_Series.ipynb)
 
 
-### 4. Deep Learning Image Classifier using the CIFAR-100 dataset. 
+### Deep Learning Image Classifier using the CIFAR-100 dataset
 
-**Description:**
+#### **Description:**
+This project implements a Convolutional Neural Network (CNN) for image classification using the CIFAR-100 dataset. The objective is to train a deep learning model to classify the images into one of the 100 categories. The process includes data loading and normalization, testing with various CNN architectures, and the use of techniques such as batch normalization, dropout, and weight regularization (L1 and L2) to prevent overfitting. The models are trained with and without data augmentation techniques, and are evaluated using a classification report and loss/accuracy plots for both the training and validation sets
 
+#### **Skills:**
 
-**Skills:**
+Deep Learning, Convolutional Neural Networks (CNN), Model Evaluation, Data Augmentation, Regularization Techniques, Data Preprocessing and Normalization, Training and Validation, Performance Analysis. 
 
+##### **Technology:**
 
-
-**Technology:**
+TensorFlow, Keras, Python. 
 
 
 **Code:** [`Deep_Learning_Image_Classifier.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Deep_Learning_Image_Classifier.ipynb)
 
 
-### 5. EasyMoney: Purchase Propensity Model and Clustering for a FinTech. 
+### Purchase Propensity Model and Clustering for a FinTech
+
+#### **Description:**
+
+The project revolves around the challenge of optimizing the profitability of a financial products platform, EasyMoney, which is facing challenges due to product diversification, a lack of profitability, and pressure from investors. The project involves developing advanced analytical solutions for marketing, including building a Power BI dashboard to track sales KPIs, creating a predictive propensity model to identify customers likely to purchase, and segmenting customers into groups for targeted marketing. The goal is to leverage data to improve decision-making and drive business growth while addressing the company's current strategic and operational challenges.
+
+#### **Skills:**
+
+Data cleaning, data modelling, Power BI dashboards and visualization, predictive analytics, customer segmentation techniques. 
+
+
 **Code:** 
 - Data Integration: [`EasyMoney_1_Merge.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_1_Merge.ipynb)
 - EDA (Exploratory Data Analysis)and Data Preparation 1: [`EasyMoney_2_EDA_Data_Prep.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_2_EDA_Data_Prep.ipynb)
