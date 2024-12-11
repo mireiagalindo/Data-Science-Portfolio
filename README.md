@@ -4,11 +4,13 @@
 
 
 ## About
-I’m an architect with a strong background in designing and executing diverse building projects, and a Data Science and Machine Learning professional with expertise in Python-based analysis and visualization, leveraging libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, along with working knowledge of SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems effectively.
+I’m an architect with a solid background in designing and executing diverse building projects, and a Data Science and Machine Learning professional with expertise in Python-based analysis and visualization, leveraging libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, along with working knowledge of SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems effectively.
 
-With over 10 years of experience in construction projects—spanning residential, industrial, and office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners.
+With over 10 years of experience in construction projects—including residential, industrial, and office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners to deliver successful outcomes.
 
-Additionally, I have formal training in Smart Cities and technologies for effective urban management. I am deeply passionate about integrating design, technology, and sustainability to drive innovation and create impactful, future-focused solutions.
+As a trained Data Scientist, I have honed skills in cleaning and preprocessing data, exploring datasets to uncover patterns, engineering meaningful features to improve model performance, and building and evaluating machine learning models using industry-standard tools and methodologies.
+
+Additionally, I have formal training in Smart Cities and technologies for effective urban management. I am passionate about integrating design, technology, and sustainability to drive innovation and create impactful, future-focused solutions.
 
 
 ## Data Science and Machine Learning Projects:
@@ -32,7 +34,7 @@ This project involves preprocessing and analyzing a used BMW car sales dataset t
 Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis. 
 
 #### **Technology:** 
-Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
+Jupyter Notebook, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
 
 **Code:** [`Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Used_BMW_Car_Sales_Analysis_Preprocessing.ipynb)
 
@@ -46,12 +48,12 @@ This project focuses on using machine learning to predict malware infections on 
 Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis.
 
 #### **Technology:** 
-Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
+Jupyter Notebook, Python libraries (Pandas, Numpy, Seaborn, Matplotlib), XGBoost, Decision Tree, Random Forest. 
 
 **Code:** [`Microsoft_Malware_Prediction.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/Microsoft_Malware_Prediction.ipynb)
 
 
-### Sales Prediction with Time Series and XGBoost
+### Sales Prediction with Time Series
 
 #### **Description:** 
 This project focuses on predicting monthly sales using time series data and an XGBoost model. The dataset contains sales data for various items across multiple shops, and the goal is to forecast future sales. The process involves data loading, exploration, handling missing values, feature engineering, and building predictive models using XGBoost. Exploratory Data Analysis (EDA) includes visualizing sales trends, item categories, and cities with the highest sales. Key features are created through rolling averages, lag features, and aggregated metrics to improve model performance. The XGBoost model is trained, evaluated, and fine-tuned using RMSE for performance measurement.
@@ -91,6 +93,10 @@ The project revolves around the challenge of optimizing the profitability of a f
 #### **Skills:**
 
 Data cleaning, data modelling, Power BI dashboards and visualization, predictive analytics, customer segmentation techniques. 
+
+##### **Technology:**
+
+Python, XGBoost, Decision Tree, Random Forest, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Power BI.
 
 
 **Code:** 
