@@ -4,11 +4,11 @@
 
 
 ## About
-I’m an architect with a solid background in designing and executing diverse building projects, and a Data Science and Machine Learning specialist with expertise in Python-based analysis and visualization, leveraging libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, along with working knowledge of SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems effectively.
+I am a Data Science and Machine Learning specialist with expertise in Python-based analysis, data visualization, and the development of machine learning models to solve complex problems effectively. I have practical experience working with key libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, alongside a working knowledge of SQL and Power BI.
 
-With over 10 years of experience in construction projects—including residential, industrial, and office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners to deliver successful outcomes.
+With over 10 years of experience as an architect in the construction industry—spanning residential, industrial, and office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners to deliver successful project outcomes.
 
-As a trained Data Scientist, I have honed skills in cleaning and preprocessing data, exploring datasets to uncover patterns, engineering meaningful features to improve model performance, and building and evaluating machine learning models using industry-standard tools and methodologies.
+As a trained Data Scientist, I have developed strong skills in cleaning and preprocessing data, exploring datasets to uncover patterns, engineering meaningful features to improve model performance, and building and evaluating machine learning models using industry-standard tools and methodologies.
 
 Additionally, I have formal training in Smart Cities and technologies for effective urban management. I am passionate about integrating design, technology, and sustainability to drive innovation and create impactful, future-focused solutions.
 
