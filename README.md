@@ -4,7 +4,7 @@
 
 
 ## About
-I’m an architect with a solid background in designing and executing diverse building projects, and a Data Science and Machine Learning professional with expertise in Python-based analysis and visualization, leveraging libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, along with working knowledge of SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems effectively.
+I’m an architect with a solid background in designing and executing diverse building projects, and a Data Science and Machine Learning specialist with expertise in Python-based analysis and visualization, leveraging libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, along with working knowledge of SQL and Power BI. I have hands-on experience developing machine learning models to solve complex problems effectively.
 
 With over 10 years of experience in construction projects—including residential, industrial, and office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners to deliver successful outcomes.
 
