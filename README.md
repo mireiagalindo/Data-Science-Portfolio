@@ -42,7 +42,8 @@ Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib
 #### **Description:** 
 This project focuses on using machine learning to predict malware infections on devices. The goal is to analyze historical data related to system behavior, software usage, and security vulnerabilities, to create a  predictive models that can identify which systems are at risk of becoming compromised. It includes Exploratory Data Analysis, Data Preparation and Model Training and Evaluation. 
 
-#### **Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis.
+#### **Skills:** 
+Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Data Cleaning and Transformation, Data Visualization, Machine Learning Model Preparation, Statistical Analysis.
 
 #### **Technology:** 
 Jupyter Notebook, Anaconda, Python libraries (Pandas, Numpy, Seaborn, Matplotlib).
@@ -93,6 +94,7 @@ Data cleaning, data modelling, Power BI dashboards and visualization, predictive
 
 
 **Code:** 
+- Dashboard: [`EasyMoney_PowerBI.pdf`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_PowerBI.pdf)
 - Data Integration: [`EasyMoney_1_Merge.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_1_Merge.ipynb)
 - EDA (Exploratory Data Analysis)and Data Preparation 1: [`EasyMoney_2_EDA_Data_Prep.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_2_EDA_Data_Prep.ipynb)
 - EDA (Exploratory Data Analysis), Data Preparation 2: [`EasyMoney_3_EDA_Data_Prep.ipynb`](https://github.com/mireiagalindo/portfolio_projects/blob/main/EasyMoney_3_EDA_Data_Prep.ipynb)
