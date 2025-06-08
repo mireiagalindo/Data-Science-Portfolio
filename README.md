@@ -4,13 +4,17 @@
 
 
 ## About
-I am a Data Science and Machine Learning specialist with expertise in Python-based analysis, data visualization, and the development of machine learning models to solve complex problems effectively. I have practical experience working with key libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras, alongside a working knowledge of SQL and Power BI.
+I’m an architect with over a decade of experience in complex construction projects in Germany, who has recently made a successful transition into Data Science and Machine Learning.
 
-With over 10 years of experience as an architect in the construction industry—spanning residential, industrial, and office developments—I excel in problem-solving, client communication, and coordinating efforts among stakeholders and planners to deliver successful project outcomes.
+In my journey into data science, I have developed and deployed both supervised and unsupervised machine learning models, tackled time series analysis, customer segmentation, and purchase propensity projects, and created interactive dashboards with tools such as Power BI, Python, and SQL. I bring practical experience in collaborative, agile environments using Git and GitHub, as well as a solid understanding of cloud services and MLOps concepts.
 
-As a trained Data Scientist, I have developed strong skills in cleaning and preprocessing data, exploring datasets to uncover patterns, engineering meaningful features to improve model performance, and building and evaluating machine learning models using industry-standard tools and methodologies.
+My background in architecture has equipped me with a creative problem-solving mindset and the ability to work collaboratively and communicate effectively, often translating complex technical information for non-technical stakeholders. This blend of technical, strategic, and creative skills drives my passion for leveraging the power of data to make a lasting impact across industries.
 
-Additionally, I have formal training in Smart Cities and technologies for effective urban management. I am passionate about integrating design, technology, and sustainability to drive innovation and create impactful, future-focused solutions.
+Explore my work through my GitHub portfolio, where you can find projects ranging from sales prediction and deep learning image classification to purchase propensity modeling and malware prediction.
+
+https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md
+
+I’m eager to explore new opportunities where I can combine my creativity and experience in large, complex projects with my passion for advanced analytics and machine learning.
 
 
 ## Data Science and Machine Learning Projects:
