@@ -10,10 +10,6 @@ In my journey into data science, I have developed and deployed both supervised a
 
 My background in architecture has equipped me with a creative problem-solving mindset and the ability to work collaboratively and communicate effectively, often translating complex technical information for non-technical stakeholders. This blend of technical, strategic, and creative skills drives my passion for leveraging the power of data to make a lasting impact across industries.
 
-Explore my work through my GitHub portfolio, where you can find projects ranging from sales prediction and deep learning image classification to purchase propensity modeling and malware prediction.
-
-https://github.com/mireiagalindo/Data-Science-Portfolio/blob/main/README.md
-
 I’m eager to explore new opportunities where I can combine my creativity and experience in large, complex projects with my passion for advanced analytics and machine learning.
 
 
